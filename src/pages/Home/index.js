@@ -27,6 +27,7 @@ function Home() {
           placeholder="Search a gif"
         />
       </form>
+
       <h3 className="App-title">Los Gifs más populares</h3>
       <ul>
         {POPULAR_GIFS.map((popular) => (
