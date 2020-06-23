@@ -1,0 +1,13 @@
+li {
+  text-decoration: none;
+  text-transform: none;
+  text-align: left;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: rgb(133, 195, 216);
+}
